@@ -3,6 +3,6 @@ package mj.demo.test;
 public class TestJava {
 public static void main(String s[])
 {
-	System.out.println("delete this");
+	System.out.println("new edit");
 }
 }
